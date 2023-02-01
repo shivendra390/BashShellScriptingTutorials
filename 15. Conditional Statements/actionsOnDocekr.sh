@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 ######################################################
-# Author: Narendraa                                  #
-# Date: Aug-2020                                     #
+# Author: Shivendra                                  #
+# Date: feb-2023                                     #
 # Usage is: start,stop,restart and version of docker #
 ######################################################
 
